@@ -2,7 +2,7 @@
 
 ## 📝 Janken/README.md
 
-```markdown
+
 # ✊✌️✋ C# じゃんけんゲーム（学習用）
 
 ## 📌 概要
