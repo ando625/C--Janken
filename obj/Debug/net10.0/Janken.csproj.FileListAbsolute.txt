@@ -1,0 +1,14 @@
+/Users/za/PF/Janken/bin/Debug/net10.0/Janken
+/Users/za/PF/Janken/bin/Debug/net10.0/Janken.deps.json
+/Users/za/PF/Janken/bin/Debug/net10.0/Janken.runtimeconfig.json
+/Users/za/PF/Janken/bin/Debug/net10.0/Janken.dll
+/Users/za/PF/Janken/bin/Debug/net10.0/Janken.pdb
+/Users/za/PF/Janken/obj/Debug/net10.0/Janken.GeneratedMSBuildEditorConfig.editorconfig
+/Users/za/PF/Janken/obj/Debug/net10.0/Janken.AssemblyInfoInputs.cache
+/Users/za/PF/Janken/obj/Debug/net10.0/Janken.AssemblyInfo.cs
+/Users/za/PF/Janken/obj/Debug/net10.0/Janken.csproj.CoreCompileInputs.cache
+/Users/za/PF/Janken/obj/Debug/net10.0/Janken.dll
+/Users/za/PF/Janken/obj/Debug/net10.0/refint/Janken.dll
+/Users/za/PF/Janken/obj/Debug/net10.0/Janken.pdb
+/Users/za/PF/Janken/obj/Debug/net10.0/Janken.genruntimeconfig.cache
+/Users/za/PF/Janken/obj/Debug/net10.0/ref/Janken.dll
